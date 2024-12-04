@@ -1,0 +1,6 @@
+[submodule "3rd/biddingAPI"]
+	path = 3rd/biddingAPI
+	url = git@github.com:current1990/biddingAPI.git
+[submodule "third/biddingAPI"]
+	path = third/biddingAPI
+	url = git@github.com:current1990/biddingAPI.git
